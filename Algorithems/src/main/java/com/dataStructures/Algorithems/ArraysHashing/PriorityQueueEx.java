@@ -10,7 +10,7 @@ public class PriorityQueueEx {
         for(int n:nums) {
             if (queue.size() == 3) {
                 queue.poll();
-                queue.offer(n);
+                queue.add(n);
             }else{
                 queue.add(n);
             }

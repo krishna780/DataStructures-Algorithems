@@ -13,7 +13,8 @@ public class StringCombinations {
             for (int i = 0; i < length; i++) {
                 String substring = remaining.substring(0, i);
                 String substring1 = remaining.substring(i + 1);
-                generateCombinations(prefix + remaining.charAt(i),
+                char charAt = remaining.charAt(i);
+                generateCombinations(prefix + charAt,
                         substring + substring1);
             }
         }
