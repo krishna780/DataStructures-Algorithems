@@ -1,4 +1,4 @@
-package com.dataStructures.Algorithems.ArraysHashing;
+package com.dataStructures.Algorithems;
 
 public class Example {
     public static void main(String[] args) {
