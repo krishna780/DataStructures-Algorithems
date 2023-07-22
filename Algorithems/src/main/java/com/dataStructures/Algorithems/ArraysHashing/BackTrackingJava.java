@@ -12,7 +12,8 @@ public class BackTrackingJava {
         System.out.println(lists);
     }
 
-    private static void getCombinations(int[] nums, int target, int start, List<List<Integer>> lists , List<Integer> integers) {
+    private static void getCombinations(int[] nums, int target, int start,
+                                        List<List<Integer>> lists , List<Integer> integers) {
         if(target==0){
             lists.add(new ArrayList<>(integers));
             return;

@@ -20,7 +20,7 @@ public class StringCombinations {
         }
     }
 
-    public static void main(String[] args) {
+    public static void main(String[]  args) {
         String input = "abc";
         generateCombinations(input);
     }

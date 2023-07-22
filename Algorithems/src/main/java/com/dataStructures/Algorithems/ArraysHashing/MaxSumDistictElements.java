@@ -1,13 +1,14 @@
 package com.dataStructures.Algorithems.ArraysHashing;
 
 import java.util.LinkedList;
+import java.util.PriorityQueue;
 import java.util.Queue;
 
 public class MaxSumDistictElements {
     public static void main(String[] args) {
         int[] nums={1,5,4,2,9,8,9,7,9};
         int sum=0,k=3, newSum;
-        Queue<Integer> queue=new LinkedList<>();
+        Queue<Integer> queue=new PriorityQueue<>();
         for(int i=0;i<k;i++){
             int num = nums[i];
             queue.add(num);

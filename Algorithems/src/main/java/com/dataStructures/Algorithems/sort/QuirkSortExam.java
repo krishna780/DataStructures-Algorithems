@@ -6,6 +6,7 @@ import java.util.Collections;
 public class QuirkSortExam {
     public static void main(String[] args) {
         int[] intArray={20,35,-15,7,55,1,-22};
+
         quirkSort(intArray, 0,intArray.length);
         Arrays.stream(intArray).forEach(System.out::println);
 

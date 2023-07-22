@@ -6,8 +6,8 @@ import java.util.Set;
 
 public class FindLongestSubStrin {
     public static void main(String[] args) {
-        String str="acbcakcfs";
-        String longestSubstr=null;
+        var str="acbcakcfs";
+          String longestSubstr=null;
         int longestSubstringlength=0;
         Map<Character,Integer> hashMap=new HashMap<>();
              for (int i=0;i<str.length();i++){
