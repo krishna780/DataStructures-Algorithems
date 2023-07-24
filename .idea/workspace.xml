@@ -5,19 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1855ac57-b563-43c1-a077-720144356b9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/list/FileEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/list/fele.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/sort/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/SlidingWindow/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/SlidingWindow/StringCombinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/top5alg/BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/top5alg/CombinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/top5alg/FindLongestSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/top5alg/FindMostFrequentNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/top5alg/FindTopKElemets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/top5alg/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/top5alg/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/top5alg/PermutationEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/top5alg/PermutationString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/top5alg/Quicksort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/top5alg/QuirkSortExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/top5alg/SumOfKNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/top5alg/SumOfThreeNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/top5alg/TargetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/top5alg/WordLadder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/top5alg/WordLadderEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/top5alg/WordLadderJava.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/BackTrackingJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/BackTrackingJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/FindLongestSubStrin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/FindLongestSubStrin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/LeaderOfString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/LeaderOfString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/MaxSumDistictElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/MaxSumDistictElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/MaxSumEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/MaxSumEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/PriorityQueueEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/PriorityQueueEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/StringCombinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/StringCombinations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/SubArrayEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/TripletFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/TripletFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/list/ListEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/list/ListEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/SumOfDigistArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/SumOfDigistArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/TripletSumFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/TripletSumFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/TwoSumEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/TwoSumEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/sort/QuirkSortExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/sort/QuirkSortExam.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,31 +78,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_directory_selection": "/Users/krishnakanthgona/work/DataStructures-Algorithems/Algorithems/src/main/java/com/dataStructures/Algorithems",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;/Users/krishnakanthgona/work/DataStructures-Algorithems/Algorithems/src/main/java/com/dataStructures/Algorithems&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.dataStructures.Algorithems.ArraysHashing" />
       <recent name="com.dataStructures.Algorithems" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dataStructures.Algorithems.top5alg" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.GroupAngram">
-    <configuration name="CombinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructures.Algorithems.ArraysHashing.CombinationSum" />
+  <component name="RunManager" selected="Application.BFS">
+    <configuration name="BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructures.Algorithems.top5alg.BFS" />
       <module name="Algorithems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dataStructures.Algorithems.ArraysHashing.*" />
+          <option name="PATTERN" value="com.dataStructures.Algorithems.top5alg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CombinationSumEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructures.Algorithems.ArraysHashing.CombinationSumEx" />
+    <configuration name="FindTopKElemets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructures.Algorithems.top5alg.FindTopKElemets" />
       <module name="Algorithems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dataStructures.Algorithems.ArraysHashing.*" />
+          <option name="PATTERN" value="com.dataStructures.Algorithems.top5alg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindLeaderOftheElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructures.Algorithems.ArraysHashing.FindLeaderOftheElement" />
+    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructures.Algorithems.top5alg.Graph" />
       <module name="Algorithems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dataStructures.Algorithems.ArraysHashing.*" />
+          <option name="PATTERN" value="com.dataStructures.Algorithems.top5alg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreatestElemetEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructures.Algorithems.ArraysHashing.GreatestElemetEx" />
+    <configuration name="PermutationEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructures.Algorithems.top5alg.PermutationEx" />
       <module name="Algorithems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dataStructures.Algorithems.ArraysHashing.*" />
+          <option name="PATTERN" value="com.dataStructures.Algorithems.top5alg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GroupAngram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructures.Algorithems.ArraysHashing.GroupAngram" />
+    <configuration name="TargetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructures.Algorithems.top5alg.TargetSum" />
       <module name="Algorithems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dataStructures.Algorithems.ArraysHashing.*" />
+          <option name="PATTERN" value="com.dataStructures.Algorithems.top5alg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GroupAngram" />
-        <item itemvalue="Application.GreatestElemetEx" />
-        <item itemvalue="Application.CombinationSum" />
-        <item itemvalue="Application.CombinationSumEx" />
-        <item itemvalue="Application.FindLeaderOftheElement" />
+        <item itemvalue="Application.BFS" />
+        <item itemvalue="Application.Graph" />
+        <item itemvalue="Application.TargetSum" />
+        <item itemvalue="Application.PermutationEx" />
+        <item itemvalue="Application.FindTopKElemets" />
       </list>
     </recent_temporary>
   </component>
@@ -187,131 +204,6 @@
           <properties class="java.io.NotSerializableException" package="java.io" />
           <option name="timeStamp" value="1" />
         </breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/StringEx.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-11.0.19/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java</url>
-          <line>4792</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/programs/ReverseNum.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/programs/ArmostrongEx.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/programs/SelectingSortingEx.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/programs/InsertionOrderPreserve.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/LongestSubString.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="80" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/StringCombinations.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="82" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/MaxSum.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="87" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/BinarySearch.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="88" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/BinarySearch.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="89" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/BinarySearchEx.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="94" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/SinglyLinkedListEx.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="95" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/SinglyLinkedList.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="96" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/LeaderOfString.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="97" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/TrappingWater.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="98" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/TripletSumFinder.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="99" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/FindLongestSubStrin.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="106" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/LargestSquare.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="116" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/SlidingWindow/BestTimeBuySellStock.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="117" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/SlidingWindow/CharacterReplacement.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="126" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/BackTrackingJava.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="134" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/SquareArray.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="136" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/ArraysHashing/StringCombinations.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="137" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/sort/BinarySearch.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="139" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-11.0.18/Contents/Home/lib/src.zip!/java.base/java/util/stream/Stream.java</url>
           <line>387</line>
@@ -320,6 +212,16 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/top5alg/BFS.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Algorithems/src/main/java/com/dataStructures/Algorithems/top5alg/Graph.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="196" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

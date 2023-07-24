@@ -1,7 +1,6 @@
-package com.dataStructures.Algorithems.sort;
+package com.dataStructures.Algorithems.top5alg;
 
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.Random;
 
 public class QuirkSortExam {

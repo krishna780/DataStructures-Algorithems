@@ -1,33 +1,27 @@
 package com.dataStructures.Algorithems.ArraysHashing;
 
+import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.PriorityQueue;
 import java.util.Queue;
+import java.util.concurrent.ArrayBlockingQueue;
 
 public class MaxSumDistictElements {
+    public static int maxSumDistinct(int[] arr, int k) {
+        Arrays.sort(arr);
+        int n = arr.length;
+        int maxSum = 0;
+
+        for (int i = n - 1; i >= n - k; i--) {
+            maxSum += arr[i];
+        }
+
+        return maxSum;
+    }
+
     public static void main(String[] args) {
         int[] nums={1,5,4,2,9,8,9,7,9};
-        int sum=0,k=3, newSum;
-        Queue<Integer> queue=new PriorityQueue<>();
-        for(int i=0;i<k;i++){
-            int num = nums[i];
-            queue.add(num);
-            sum+=num;
-        }
-        newSum=sum;
-        for(int i=k;i< nums.length;i++) {
-               if(queue.contains(nums[i])){
-                   queue.clear();
-                   queue.add(nums[i]);
-               }
-               else {
-                   int poll = queue.poll();
-                   sum = sum - poll;
-                   queue.add(nums[i]);
-                   sum += nums[i];
-                    newSum = Math.max(sum, newSum);
-               }
-        }
-        System.out.println(newSum);
-        }
-}
+        int k = 3;
+        int maxSum = maxSumDistinct(nums, k);
+        System.out.println("Maximum sum of " + k + " distinct elements: " + maxSum);
+    }}

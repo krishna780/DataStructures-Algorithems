@@ -7,12 +7,13 @@ import java.util.stream.Collectors;
 public class TwoSumEx {
     public static Map twoSum(int[] numbers, int target) {
         Map<Integer, Integer> hashMap=new HashMap<>();
-        List<Integer> list = Arrays.stream(numbers)
-                .boxed().collect(Collectors.toList());
+        List<Integer> list = new ArrayList<>();
         for (int number : numbers) {
             int newNum = target - number;
-            if (list.contains(newNum) && !hashMap.containsKey(number) && !hashMap.containsValue(number)) {
+            if (list.contains(newNum)) {
                 hashMap.put(number, newNum);
+            }else {
+                list.add(number);
             }
         }
 
@@ -20,8 +21,8 @@ public class TwoSumEx {
     }
     public static void main(String[] args) {
        int[] ints={6,2,7,11,15};
-        Map map = twoSum(ints, 13);
-        System.out.println(map.toString());
+        Map<Integer, Integer> map = twoSum(ints, 13);
+        System.out.println(map);
 
     }
 }

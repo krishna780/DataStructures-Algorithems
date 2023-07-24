@@ -5,9 +5,9 @@ import java.util.Map;
 
 public class TripletSumFinder {
     public static void main(String[] args) {
-        int[] nums={-1,0,1,-1,-4,2};
+        int[] nums = {1, 2, 3,5, 4,5,5, 5, 6, 7, 8, 9};
+        int target = 15;
         int length= nums.length;
-        int target =0 ;
       for (int i=0;i<length-2;i++){
           int currentTarget = target - nums[i];
           Map<Integer, Integer> seenMap = new HashMap<>();

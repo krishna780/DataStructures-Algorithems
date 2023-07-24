@@ -23,10 +23,11 @@ public class MaxSumEx {
         }
 
         for (int i = k; i < n; i++) {
-            su -= q.peek();
-            q.remove();
-            q.add(arr[i]);
-            su += arr[i];
+            int poll = q.poll();
+            int num = arr[i];
+            su -= poll;
+            q.add(num);
+            su += num;
             m = Math.max(m, su);
         }
         return m;
@@ -35,7 +36,7 @@ public class MaxSumEx {
     public static void main(String[] args)
     {
         int arr[] = { 1, 4, 2, 10, 2, 3, 1, 0, 20 };
-        int k = 4;
+        int k = 3;
         int n = arr.length;
         System.out.println(maxSum(arr, n, k));
     }
