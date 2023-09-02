@@ -25,9 +25,7 @@ public class Quicksort {
             return;
         }
 
-        int pivotIndex=new Random().nextInt(end-start)+start;
-         int pivot=nums[pivotIndex];
-         swap(nums,pivotIndex,end);
+        int pivot=nums[end];
         int leftPointer=start;
          int rightPointer=end;
 

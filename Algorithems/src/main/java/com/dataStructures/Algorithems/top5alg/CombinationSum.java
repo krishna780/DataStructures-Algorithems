@@ -4,17 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CombinationSum {
-    public static void main(String[] args) {
-
-
-        int[] nums = {2, 3, 4};
-        int target = 8,  start=0;
-        List<Integer> list=new ArrayList<>();
-        combinationS(nums,start, target,list);
-    }
-
     private static void combinationS(int[] nums, int start, int target, List<Integer> list) {
-       int sum=0;
+        int sum=0;
         if(target==sum){
             System.out.println(list.toString());
             return;
@@ -30,4 +21,13 @@ public class CombinationSum {
             list.remove(list.size()-1);
         }
     }
+    public static void main(String[] args) {
+
+
+        int[] nums = {2, 3, 4};
+        int target = 8,  start=0;
+        List<Integer> list=new ArrayList<>();
+        combinationS(nums,start, target,list);
+    }
+
 }

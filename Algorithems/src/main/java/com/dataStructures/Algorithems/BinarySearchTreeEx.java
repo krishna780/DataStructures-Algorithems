@@ -1,6 +1,11 @@
 package com.dataStructures.Algorithems;
 
-public class BinarySearchTreeEx {
+
+
+import java.util.Comparator;
+
+public class BinarySearchTreeEx  {
+
 
     Node root;
     public void insert(Node node){
@@ -35,6 +40,7 @@ public class BinarySearchTreeEx {
               displayHelper(root.right);
           }
     }
+
 
     private class Node {
         int data;

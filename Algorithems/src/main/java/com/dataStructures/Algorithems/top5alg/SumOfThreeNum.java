@@ -7,12 +7,12 @@ import java.util.List;
 public class SumOfThreeNum {
     public static void main(String[] args) {
         int[] ints={1,5,4,2,9,9,9};
-          int target=15, k=3;
+          int target=15;
            Arrays.sort(ints);
-          sumofThreeNumbers(ints,target,k);
+          sumofThreeNumbers(ints,target);
     }
 
-    private static void sumofThreeNumbers(int[] ints, int target, int k) {
+    private static void sumofThreeNumbers(int[] ints, int target) {
         List<Integer[]> list=new ArrayList<>();
         for(int i=0;i< ints.length;i++) {
             int left=i+1, right= ints.length-1;
