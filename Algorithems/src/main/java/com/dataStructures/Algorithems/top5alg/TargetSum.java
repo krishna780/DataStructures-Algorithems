@@ -13,7 +13,7 @@ public class TargetSum {
     }
 
     private static void targetSum(int[] nums, int target, List<Integer> list) {
-        if (target==0 ){
+        if (target==0 && list.size()==3){
             System.out.println(list);
             return;
         }if(target<0){

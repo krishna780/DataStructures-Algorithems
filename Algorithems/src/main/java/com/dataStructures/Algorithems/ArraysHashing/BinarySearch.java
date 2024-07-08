@@ -1,9 +1,7 @@
 package com.dataStructures.Algorithems.ArraysHashing;
 
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
-import java.util.stream.Collectors;
+
 
 public class BinarySearch {
     public static void main(String[] args) {

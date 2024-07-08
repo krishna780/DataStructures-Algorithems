@@ -9,6 +9,7 @@ public class BinarySearchTreeEx  {
 
     Node root;
     public void insert(Node node){
+
         root=insertHelper(root, node);
     }
 

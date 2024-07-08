@@ -7,8 +7,8 @@ public class StringCombinations {
 
     private static void generateCombinations(String prefix, String remaining) {
         int length = remaining.length();
-        if (remaining.length() == 0) {
-            System.out.println(prefix);
+        if (remaining.isEmpty()) {
+            System.out.println(prefix); 
         } else {
             for (int i = 0; i < length; i++) {
                 char charAt = remaining.charAt(i);

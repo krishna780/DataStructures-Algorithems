@@ -2,7 +2,7 @@ package com.dataStructures.Algorithems.SlidingWindow;
 
 public class StringCombinations {
     public static void main(String[] args) {
-        String st="abcdef";
+        String st="abc";
         getCombinationn("", st);
     }
 
